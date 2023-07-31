@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+.wrap{
+    width: 1200px;
+    margin: 10px  200px auto;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.btn1{
+    display: inline-block;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: 1px solid red;
+    color: red;
+    border-radius: 10px;
+    margin: 10px;
+}
+.btn2{
+    display: inline-block;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: 1px solid forestgreen;
+    background-color: forestgreen;
+    color: beige;
+    border-radius: 22px;
+    margin: 10px;
+}
+.btn3{
+    display: inline-block;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: 1px solid dodgerblue;
+    background-color: dodgerblue;
+    color: beige;
+    border-radius: 10px;
+    margin: 10px;
+}
+.btn4{
+    display: inline-block;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: 1px solid yellow;
+    background-color:yellow;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+.btn5{
+    display: inline-block;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: 1px solid purple;
+    color: purple;
+    border-radius: 10px;
+    margin: 10px;
+}
+.btn6{
+    display: inline-block;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: 1px solid lightgreen;
+    color: lightgreen;
+    border-radius: 22px;
+    margin: 10px;
+}
